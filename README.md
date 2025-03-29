@@ -24,4 +24,3 @@ I'm an independent full-stack developer. I build all my projects from the ground
 ### 📊 Stats
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovasconceloss&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=ovasconceloss&theme=gruvbox&border_radius=4.5)
