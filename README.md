@@ -1,8 +1,8 @@
 # 😁 Victor Vasconcelos
 
-**`(Developer/Student)`**
+**`(Student)`**
 
-I'm an independent full-stack developer. I build all my projects from the ground up—from planning and design to execution—whether to solve real-world problems or simply for the love of coding.
+I'm an tech student. I build all my projects from the ground up—from planning and design to execution—whether to solve real-world problems or simply for the love of coding.
 
 ---
 
