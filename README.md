@@ -22,6 +22,7 @@ I'm an tech student. I build all my projects from the ground up—from planning 
 #
 
 ### 📊 Stats
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovasconceloss&show_icons=true&theme=dracula)
-![Victor's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=ovasconceloss&theme=dracula&hide_border=false)
+<div align="center" style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ovasconceloss&show_icons=true&theme=dracula" alt="Victor's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovasconceloss&theme=dracula&hide_border=false" alt="Victor's GitHub streak"/>
+</div>
