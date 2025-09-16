@@ -20,8 +20,8 @@ I'm an full stack developer. I build all my projects from the ground up—from p
 ## GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovasconceloss&layout=compact&theme=dracula" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ovasconceloss&show_icons=true&theme=dracula" alt="Victor's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovasconceloss&layout=compact&theme=dracula" alt="Top Languages"/>
   <br/>
 </div>
 
