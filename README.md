@@ -10,10 +10,10 @@ I'm an full stack developer. I build all my projects from the ground up—from p
 
 ## Tech Stack
 
-* **Databases:** MySQL
-* **Styling & UI:** Tailwind CSS · Component-driven UI
+* **Databases:** MySQL · MongoDB · SQLite · MariaDB
 * **Tools & Practices:** Git · Agile · CI/CD · RESTful APIs
-* **Languages & Frameworks:** JavaScript · TypeScript · Node.js · React · PHP
+* **Styling & UI:** CSS · Sass · Tailwind CSS · Bootstrap · Component-driven UI
+* **Languages & Frameworks:** JavaScript · TypeScript · Node.js · React.js · Fastify
 
 ---
 
