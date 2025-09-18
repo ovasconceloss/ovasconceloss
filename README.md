@@ -13,7 +13,7 @@ I'm an full stack developer. I build all my projects from the ground up—from p
 * **Databases:** MySQL · MongoDB · SQLite · MariaDB
 * **Tools & Practices:** Git · Agile · CI/CD · RESTful APIs
 * **Styling & UI:** CSS · Sass · Tailwind CSS · Bootstrap · Component-driven UI
-* **Languages & Frameworks:** JavaScript · TypeScript · Node.js · React.js · Fastify
+* **Languages & Frameworks:** JavaScript · TypeScript · Node.js · React.js · Fastify · C# · .NET
 
 ---
 
