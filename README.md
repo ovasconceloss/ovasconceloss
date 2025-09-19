@@ -1,4 +1,3 @@
-**`(Full Stack Developer)`**
 # Hello, I'm Victor Vasconcelos
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Vasconcelos-0A66C2?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/ovasconceloss/)](https://www.linkedin.com/in/ovasconceloss/)
